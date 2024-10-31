@@ -28,5 +28,25 @@
         "description": "Amateur de cuisine et de sport.",
         "photo": "https://via.placeholder.com/100",
         "phone": "0147258369"
+    },
+    {
+        "id": 4,
+        "name": "bilel",
+        "email": "bilel@example.com",
+        "age": 44,
+        "gender": "Homme",
+        "description": "Amateur de cuisine et de sport.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "4444444444"
+    },
+    {
+        "id": 5,
+        "name": "faical",
+        "email": "faical@example.com",
+        "age": 55,
+        "gender": "Homme",
+        "description": "Amateur de cuisine et de sport.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0165555555"
     }
 ]
